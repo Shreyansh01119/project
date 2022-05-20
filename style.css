@@ -1,0 +1,28 @@
+body{
+    background-color:yellowgreen;
+}
+h1{
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#score{
+    font-size: 30px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#show_sketch{
+    float: right;
+}
+#sketch_name{
+    color: red;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
